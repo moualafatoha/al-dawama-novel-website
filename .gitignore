@@ -1,0 +1,45 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.atom/
+
+# Node & npm (if needed for future enhancements)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build & Deployment
+dist/
+build/
+*.log
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# OS Backup Files
+*.bak
+*.backup
+
+# Git
+.git/
